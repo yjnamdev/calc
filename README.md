@@ -3,7 +3,7 @@
 > 2022.03 - 2022.06    
 > **Swift Programming**
 
-<img src="https://github.com/yjnamdev/calc/assets/137621989/f6770287-a91a-44f5-b27a-7815175dca7f">  
+<img src="https://github.com/yjnamdev/calc/assets/137621989/c889e26e-78da-4d05-bdbe-dacfea6c70dd">  
 
 ### 기본 계산기 앱을 변형한 은행 관련 계산기 앱
 iOS의 주 프로그래밍 언어인 Swift와 안드로이드의 주 프로그래밍 언어인 Java에 대한 이론 학습 후 동일한 기능을 가진 계산기 앱을 두 가지 언어로 제작한 프로젝트이다. 세로 방향에선 기본 계산기를, 가로 방향에선 복리, 이자 등과 같은 은행 관련 계산 기능들을 추가하여 실생활에 도움이 되는 계산기를 만들었다.
